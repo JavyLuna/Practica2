@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practica #2</string>
+    <string name="nombre">Aplicacion Android #2</string>
+    <string name="sub1">Ingrese el monto de capital</string>
+    <string name="sub2">Ingrese el interes a calcular</string>
+    <string name="sub3">Ingrese el numero de periodos</string>
+    <string name="boton">Calcular</string>
+</resources>
